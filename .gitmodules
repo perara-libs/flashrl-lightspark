@@ -1,4 +1,4 @@
 [submodule "lightspark"]
 	path = lightspark
-	url = https://github.com/lightspark/lightspark.git
+	url = https://github.com/perara-libs/lightspark.git
 	branch = master
