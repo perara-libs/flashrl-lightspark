@@ -1,0 +1,4 @@
+[submodule "lightspark"]
+	path = lightspark
+	url = https://github.com/lightspark/lightspark.git
+	branch = master
